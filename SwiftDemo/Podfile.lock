@@ -1,0 +1,20 @@
+PODS:
+  - HandyJSON (5.0.2)
+  - SnapKit (5.6.0)
+
+DEPENDENCIES:
+  - HandyJSON (~> 5.0.2)
+  - SnapKit (~> 5.6.0)
+
+SPEC REPOS:
+  trunk:
+    - HandyJSON
+    - SnapKit
+
+SPEC CHECKSUMS:
+  HandyJSON: 9e4e236f5d2dbefad5155a77417bbea438201c03
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+
+PODFILE CHECKSUM: 49592ac6f5e821500582961acfea5cb050a48af4
+
+COCOAPODS: 1.11.3
